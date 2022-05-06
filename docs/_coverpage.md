@@ -15,4 +15,7 @@
 > ！我们的目标是 ！
 
 - 一个开箱即用的瞳孔分析包
-  [PrePupillometry](https://github.com/wangxiatian/PrePupillometry)
+
+[PrePupillometry](https://github.com/wangxiatian/PrePupillometry)
+
+[文档地址](README.md)
