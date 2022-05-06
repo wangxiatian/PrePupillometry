@@ -16,6 +16,6 @@
 
 - 一个开箱即用的瞳孔分析包
 
-[PrePupillometry](https://github.com/wangxiatian/PrePupillometry)
-
+[Source Code PrePupillometry](https://github.com/wangxiatian/PrePupillometry)
+[英文文档](README.md))
 [文档地址](README.md)

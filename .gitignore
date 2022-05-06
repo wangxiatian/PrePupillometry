@@ -2,3 +2,5 @@
 操作文档.md
 # 忽略文件本身
 .gitignore
+# 忽略所有的todo文件
+todo.md
